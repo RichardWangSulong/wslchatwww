@@ -109,7 +109,7 @@
           console.log("webscoket连接");
         }
         webSocket.onerror=function(){
-          this.$f7.alert("连接通讯服务器失败，请重新登录或者联系管理员","hichat");
+          this.$f7.alert("连接通讯服务器失败，请重新登录或者联系管理员.","hichat");
         }
         this.$store.dispatch('initWebsocket',webSocket);
 
