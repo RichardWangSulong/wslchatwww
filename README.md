@@ -1,6 +1,6 @@
-# hichat
+# wslchat
 
-> hichat html project
+> wslchat
 
 ## Build Setup
 
